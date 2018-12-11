@@ -1,15 +1,15 @@
-<img src="./docs/images/logo.png" align="left" hspace="1" vspace="1">
+<img height='175' src="./docs/images/logo.png" align="left" hspace="1" vspace="1">
 
-<a href='https://play.google.com/store/apps/details?id=org.fossasia.phimpme' target='_blank' align="right"><img align="right" height='36' src='https://s20.postimg.org/muzx3w4jh/google_play_badge.png' /></a>
+<a href='https://play.google.com/store/apps/details?id=org.fossasia.phimpme'><img align='right' height='46' src='./docs/images/google_play_badge.png'></a>
+
 # Phimp.me Android
 
-Phimp.me is a Photo App for Android that aims to replace proprietary photo applications. It offers features such as taking photos, adding filters, editing images and uploading them to social networks.
+<a href='https://phimp.me'>Phimp.me</a> is an Android image editor app that aims to replace proprietary photographing and image apps on smart phones. It offers features such as taking photos, adding filters, editing images and uploading them to social networks. Phimp.me stands for **Ph**otos - **Im**ages - **P**ictures. It is developed at <a href='https://fossasia.org'>FOSSASIA</a> together with a global community.
 
-| **Master** | **Development** | **Codecov** | **Code Quality** | **Gitter** |
+
+| Master | Development | Codecov | Code Quality | Chat |
 |------------|-----------------|-------------|-----------------|-----------------|
 | [![Build Status](https://travis-ci.org/fossasia/phimpme-android.svg?branch=master)](https://travis-ci.org/fossasia/phimpme-android) | [![Build Status](https://travis-ci.org/fossasia/phimpme-android.svg?branch=development)](https://travis-ci.org/fossasia/phimpme-android) | [![codecov](https://codecov.io/gh/fossasia/phimpme-android/branch/master/graph/badge.svg)](https://codecov.io/gh/fossasia/phimpme-android) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4584003e734343b3b8ce94bcae6e9ca4)](https://www.codacy.com/app/harshithdwivedi/phimpme-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fossasia/phimpme-android&amp;utm_campaign=Badge_Grade) | [![Gitter Room](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-blue.svg)](https://gitter.im/fossasia/phimpme) |
-
----
 
 ## Screenshots
 
@@ -24,8 +24,6 @@ Phimp.me is a Photo App for Android that aims to replace proprietary photo appli
       <td><img src="./docs/images/ss_6.png"></td>
     </tr>
   </table>
-  
----
 
 
 Do you have many different apps on your Android Phone for the purpose of clicking, editing and sharing images? Hey, guess what, now you don't need all of those because `Phimp.me` is here, with all the features packaged into one. So go and clean your phone memory to save your space for other useful purposes.
@@ -55,13 +53,8 @@ Do you have many different apps on your Android Phone for the purpose of clickin
 
 * Facebook, Twitter, NextCloud, OwnCloud, Imgur, Dropbox, Box, Flickr, Pinterest, Instagram, Whatsapp, and Tumblr - You name it and we have it covered.
 
----
-
 ## How to Contribute
 This is an Open Source project and we would be happy to see contributors who report bugs and file feature requests by submitting pull requests as well.This project adheres to the [Contributor Covenant](https://github.com/fossasia/phimpme-android/blob/development/CONTRIBUTING.md). By participating, you are expected to uphold this code style. Please report issues here https://github.com/fossasia/phimpme-android/issues
-
-
----
 
 ### Branch Policy
 We have the following branches
@@ -94,8 +87,6 @@ We have the following branches
 
  * **gh-pages**
    Hosting the landing page [phimp.me](http://phimp.me)  
-
----
 
 ## Development Setup
 
@@ -136,21 +127,15 @@ Before you begin, you should have already downloaded the Android Studio SDK and 
     * Imgur: https://api.imgur.com
     * Box: https://developer.box.com
     * Dropbox: https://www.dropbox.com/developers
-    
---- 
 
 ## License
 
-This project is currently licensed under the GNU General Public License v3. A copy of [LICENSE](LICENSE.md) is to be present along with the source code. To obtain the software under a different license, please contact [FOSSASIA](http://fossasia.com/).
-
----
+This project is currently licensed under the GNU General Public License v3. A copy of [LICENSE](LICENSE.md) is to be present along with the source code. To obtain the software under a different license, please contact [FOSSASIA](http://fossasia.org/).
 
 ## Maintainers
 The project is maintained by
 - Hon Nguyen ([@vanhonit](https://github.com/vanhonit))
 - Mario Behling ([@mariobehling](http://github.com/mariobehling))
-
----
 
 ## Developers
 <table>
